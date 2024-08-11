@@ -1,0 +1,44 @@
+.main-heading{
+    color: white;
+    text-align: center;
+    font-size: 55px;
+}
+
+h1{
+    color: rgba(168, 57, 57, 0.577);
+    font: arial;
+}
+
+h2{
+    color: rgb(231, 202, 89);
+    font: arial;
+}
+
+.grey-box {
+background-color: rgb(172, 170, 170);
+padding: 20px;
+width: auto;
+}
+
+.pink-box {
+background-color: rgb(216, 155, 202);
+padding: 20px;
+width: auto;
+}
+
+.button1{
+font: caption;
+font-size: 50px;
+}
+
+footer{
+font:oblique;
+color: grey;
+font-size: 15px;
+}
+
+.black-box {
+background-color: rgba(10, 10, 10, 0.348);
+padding: 20px;
+width:fit-content;
+}
